@@ -1,0 +1,23 @@
+.landing {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    padding: 15rem 0;
+    background: linear-gradient(to bottom, rgba(70, 70, 70, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url(../../images/IMG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.Typewriter__wrapper{
+    font-size: 7rem;
+    font-weight: 600;
+    color: white;
+}
+.Typewriter__cursor {
+    font-size: 6rem;
+    font-weight: lighter;
+    color: white;
+}
