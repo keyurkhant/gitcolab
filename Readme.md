@@ -7,7 +7,7 @@ Our primary target users are open-source developers who seek a unified platform 
 
 ## **Application Workflow and Features**
 
-### 1. User Authentication**
+### 1. User Authentication
 The system supports new user registration and existing user login. It has a forget password functionality for recovering access. Repository owners can invite contributors through the system, sending an invitation link to the contributor via email. Developers can access a project's dashboard if they are existing users on our application. Otherwise, they need to follow the necessary registration steps first.
 
 ### 2. User Profile and Role Management
